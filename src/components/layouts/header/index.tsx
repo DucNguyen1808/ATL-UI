@@ -112,8 +112,8 @@ export default function Header() {
                 },
               }}
             >
-              <MenuItem value="vi">🇻🇳</MenuItem>
-              <MenuItem value="en">🇺🇸</MenuItem>
+              <MenuItem value="vi">VN</MenuItem>
+              <MenuItem value="en">EN</MenuItem>
             </Select>
           </Box>
         </Box>
