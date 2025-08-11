@@ -92,7 +92,7 @@ export default function Header() {
                 backgroundColor: 'rgba(255, 255, 255, 0.1)',
                 backdropFilter: 'blur(10px)',
                 borderRadius: '12px',
-                fontSize: '18px',
+                fontSize: '14px',
                 color: 'white',
                 '& .MuiSelect-select': {
                   padding: '8px 16px',

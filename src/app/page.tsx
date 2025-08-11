@@ -121,6 +121,7 @@ export default function Home() {
             textTransform: 'uppercase',
             letterSpacing: '1px',
             mb: 1,
+            color: '#008236',
           }}
         >
           Our Products
